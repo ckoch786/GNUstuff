@@ -1,0 +1,57 @@
+
+GENERAL INFORMATION
+
+    This is version 0.31 of GNUTRITION, a recipe and food nutritional
+    analysis application for GNOME.
+
+    GNUtrition can be found on the main GNU FTP server:
+            http://ftp.gnu.org/gnu/gnutrition (via HTTP)
+            ftp://ftp.gnu.org/gnu/gnutrition (via FTP)
+    
+    It can also be found on the GNU mirrors; please use a mirror if possible.
+    The FTP mirror list is available at http://www.gnu.org/order/ftp.html.
+    http://ftpmirror.gnu.org/gnutrition/ will automatically redirect to a 
+    nearby mirror.
+
+    The official web site is:
+
+            http://www.gnu.org/software/gnutrition
+
+    This is alpha software, so don't expect everything to work correctly
+    or even at all.
+
+REQUIREMENTS
+
+    GNUTRITION is written is Python. It requires the following:
+
+      * pygtk and python-gnome - the Python bindings to GTK+ and
+        GNOME. These are included as part of Ximian GNOME. To download,
+        visit http://www.ximian.com.
+
+        Alternatively, their individual home pages are:
+            http://www.daa.com.au/~james/pygtk/ and
+            http://www.daa.com.au/~james/gnome/
+
+      * MySQL database server and client - version 3.22 or above.
+        At present gnutrition requires a locally installed server.
+
+      * MySQLdb modules - a Python interface to MySQL.
+        The home page is at http://dustman.net/andy/python/MySQLdb and
+        the latest version can be downloaded from:
+            http://dustman.net/andy/python/MySQLdb/0.3.5
+
+
+UPGRADING
+
+    Note that if you are upgrading from version 0.2 to 0.3 or above, 
+    gnutrition now uses a MySQL database to store recipes. This means that 
+    recipes created with version 0.2 cannot be loaded into 0.3. They must be
+    re-created using version 0.3. Sorry.
+
+    In future versions, if the database table format is changed, I will
+    provide smoother way to upgrade between without losing data.
+    
+
+HOW TO REPORT BUGS & CONTACT THE MAINTAINER
+
+    Visit http://www.gnu.org/software/gnutrition/

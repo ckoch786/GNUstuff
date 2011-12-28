@@ -1,0 +1,24 @@
+Source: gnutrition
+Section: utils
+Priority: optional
+Maintainer: Edgar Denny <e.denny@ic.ac.uk>
+Build-Depends: debhelper
+Standards-Version: 3.5.2
+
+Package: gnutrition
+Architecture: any
+Depends: python-gnome (>=1.4.1), python-gtk (>= 0.6.8), python-mysqldb (>= 0.3.5), python-base (>=1.5.2), ${shlibs:Depends}
+Description: Nutrition analysis for GNOME
+ gnutrition is a recipe and food analysis program written in Python, using
+ GTK+ and GNOME as the user interface, and MySQL as the database server.
+ It can be used to create and analyze the nutrient content of recipes,
+ keep track of the nutrient composition of your daily food intake, and
+ determine the nutrient level of individual foods.
+ .
+ The food nutrient data used in gnutrition is the USDA Nutrient Database[1].
+ It is in the public domain, and has no copyright.
+ .
+ [1] U.S. Department of Agriculture, Agricultural Research Service. 1999. 
+     USDA Nutrient Database for Standard Reference, Release 13. 
+     http://www.nal.usda.gov/fnic/foodcomp
+

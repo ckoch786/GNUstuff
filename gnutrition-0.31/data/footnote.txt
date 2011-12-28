@@ -1,0 +1,58 @@
+~02063~^~1~^~D~^~~^~Leaf~
+~02064~^~1~^~D~^~~^~Leaf~
+~02065~^~1~^~D~^~~^~Leaf~
+~02066~^~1~^~D~^~~^~Leaf~
+~03044~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03044~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03050~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03050~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03053~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03053~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03054~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03054~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03069~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03069~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03073~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03073~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03082~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03082~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03083~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03083~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03084~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03084~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03085~^~1~^~N~^~318~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~03085~^~2~^~N~^~392~^~Vitamin A values range widely due to differences in cultivar and proportion of carrots.~
+~05315~^~1~^~D~^~~^~Pieces, skin side down, seared 13 minutes; roasted at 350 degrees F, 17 minutes to 165 degrees  F~
+~05315~^~2~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05315~^~3~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05316~^~1~^~D~^~~^~Skinless pieces, charbroiled 12 minutes to  165 degrees F~
+~05316~^~2~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05316~^~3~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05317~^~1~^~D~^~~^~Pieces with skin, seared 13 minutes, roasted at 350 degrees F, 60 minutes to 185 degrees F~
+~05317~^~2~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05317~^~3~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~05318~^~1~^~D~^~~^~Skinless pieces, covered and braised at 350 degrees F, 55 minutes to 185 degrees F~
+~05318~^~2~^~N~^~204~^~Data from the Duckling Council and a USDA contract~
+~05318~^~3~^~N~^~601~^~Data from the Duckling Council and a USDA contract~
+~12220~^~1~^~D~^~~^~Up to 12 percent flax seed can safely be used as an ingredient in food.~
+~14127~^~1~^~N~^~205~^~Contains citric acid.~
+~14128~^~1~^~N~^~205~^~Contains citric acid.~
+~14129~^~1~^~N~^~205~^~Contains citric acid.~
+~14403~^~1~^~N~^~205~^~Contains citric acid.~
+~14404~^~1~^~N~^~205~^~Contains citric acid.~
+~16126~^~1~^~D~^~~^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16126~^~2~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16126~^~3~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16127~^~1~^~D~^~~^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16127~^~2~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16127~^~3~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16159~^~1~^~D~^~~^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16159~^~2~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16159~^~3~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16160~^~1~^~D~^~~^~Descriptive terms (soft, firm, extra firm) vary in usage between manufacturers as there are no standards for the various types of tofu.~
+~16160~^~2~^~N~^~301~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~16160~^~3~^~N~^~304~^~Manufacturers use either magnesium chloride (nigari), calcium sulfate, or both in varying quantities to precipitate the protein.  Calcium and magnesium contents will vary accordingly.~
+~20133~^~1~^~D~^~~^~Imported product~
+~20134~^~1~^~D~^~~^~Imported product~
+~22123~^~1~^~M~^~~^~4,464 gm foodservice package contains 43 gm patties~
+~22123~^~2~^~M~^~~^~312 gm retail package contains 78 gm patties.~

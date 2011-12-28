@@ -1,0 +1,9 @@
+gnutrition (0.31-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Edgar Denny <e.denny@ic.ac.uk>  Thu, 31 May 2001 16:39:06 +0100
+
+Local variables:
+mode: debian-changelog
+End:

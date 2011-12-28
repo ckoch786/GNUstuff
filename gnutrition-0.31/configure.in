@@ -1,0 +1,96 @@
+dnl Process this file with autoconf to produce a configure script.
+AC_INIT(src/run_app.py)
+
+PACKAGE=gnutrition
+AC_SUBST(PACKAGE)
+
+MAJOR_VERSION=0
+MINOR_VERSION=6
+VERSION=0.6
+AC_SUBST(MAJOR_VERSION)
+AC_SUBST(MINOR_VERSION)
+AC_SUBST(VERSION)
+
+dnl Get the default Python
+AC_PATH_PROG(PYTHON, python)
+AC_SUBST(PYTHON)
+
+dnl Checking for Python >= 2.2
+AC_MSG_CHECKING(for python >= 2.2)
+
+prog1="
+import sys
+if sys.hexversion < 33685744:
+    sys.exit(1)
+sys.exit(0)"
+
+prog2="
+import sys
+"
+
+if $PYTHON -c "$prog1" 1>&AC_FD_CC 2>&AC_FD_CC
+then  
+    dnl The default Python path is 2.2 or higher.
+    AC_MSG_RESULT(yes)
+else
+    dnl The default Python path is lower that 2.2. Can we find
+    dnl any other versions of Python?
+    AC_MSG_ERROR(no)
+fi
+
+changequote(, )
+PYTHON_VERSION=`$PYTHON -c "import sys; print sys.version[:3]"`
+PYTHON_PREFIX=`$PYTHON -c "import sys; print sys.prefix"`
+PYTHON_SITE_DIR=$PYTHON_PREFIX/lib/python$PYTHON_VERSION/site-packages
+changequote([, ])
+AC_SUBST(PYTHON_VERSION)
+AC_SUBST(PYTHON_PREFIX)
+AC_SUBST(PYTHON_SITE_DIR)
+
+AC_PROG_INSTALL
+AC_PROG_MAKE_SET
+
+dnl Check if python bindings for gtk are installed
+AC_MSG_CHECKING(for pygtk)
+prog3="
+import sys
+try:
+    import gtk
+except ImportError:
+    sys.exit(1)
+sys.exit(0)"
+if $PYTHON -c "$prog3" 1>&AC_FD_CC 2>&AC_FD_CC
+then  
+    AC_MSG_RESULT(yes)
+else
+    AC_MSG_ERROR([
+**** The python interpreter can't find the python bindings for gtk.])
+fi
+
+dnl Check that the python bindings for MySQL are installed
+AC_MSG_CHECKING(for MySQLdb)
+prog4="
+import sys
+try:
+    import MySQLdb
+except ImportError:
+    sys.exit(1)
+sys.exit(0)"
+if $PYTHON -c "$prog4" 1>&AC_FD_CC 2>&AC_FD_CC
+then  
+    AC_MSG_RESULT(yes)
+else
+    AC_MSG_ERROR([
+**** The python interpreter can't find the python bindings for MySQL.])
+fi
+
+AC_OUTPUT( run-gnutrition.py\
+	src/install.py\
+	Makefile\
+	src/Makefile\
+	data/Makefile\
+	pixmaps/Makefile\
+	doc/Makefile\
+	rpm/Makefile\
+	rpm/gnutrition.spec\
+	debian/Makefile)

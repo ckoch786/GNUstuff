@@ -1,0 +1,29 @@
+#! /bin/sh
+# postinst script for gnutrition
+#
+# cannabalized (by tca@gnu.org) debian prerm script for
+# Python x.y hierarchical modules
+# Written by Gregor Hoffleit <flight@debian.org>
+# Extended by Matthias Klose <doko@debian.org>
+
+set -e
+
+PACKAGE=`basename $0 | sed -e 's/\.[^.]*$//'`
+PV="1.5"
+DIRLIST="/usr/share/gnutrition"
+
+case "$1" in
+	configure|abort-upgrade|abort-remove|abort-deconfigure)
+		for i in $DIRLIST ; do
+			python -O /usr/lib/python$PV/compileall.py -q $i
+			python /usr/lib/python$PV/compileall.py -q $i
+		done
+	;;
+
+	*)
+		echo "postinst called with unknown argument \`$1'" >&2
+		exit 1
+	;;
+esac
+
+#DEBHELPER#

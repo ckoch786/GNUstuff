@@ -1,0 +1,1360 @@
+10002^cup, Cheez-its
+10021^cup, balls
+10023^cup, bite size
+10031^cup, cherry tomato
+10036^cup, chopped
+10037^cup, chopped or diced
+10038^cup, chopped or sliced
+10039^cup, chunks
+10043^cup, cooked
+10051^cup, cooked, flaked
+10052^cup, cooked, flaked and pieces
+10059^cup, crumbled
+10060^cup, crumbs
+10061^cup, crushed
+10062^cup, crushed, sliced, or chunks
+10063^cup, cubes
+10066^cup, diced
+10067^cup, diced (approx 20 pieces per cup)
+10069^cup, drained
+10074^cup, dry, yields
+10078^cup, flaked
+10081^cup, flowerets
+10098^cup, grated
+10099^cup, ground
+10101^cup, gumdrops
+10104^cup, gummy worms
+10105^cup, halves
+10106^cup, halves and whole
+10108^cup, homemade
+10111^cup, hulled
+10113^cup, in shell, edible yield
+10114^cup, in shell, edible yield (7 nuts)
+10118^cup, mashed
+10120^cup, melted
+10125^cup, oyster crackers
+10126^cup, packed
+10127^cup, pared, chopped
+10129^cup, pieces
+10130^cup, pieces or slices
+10132^cup, pitted
+10133^cup, pitted, chopped
+10136^cup, pulp
+10139^cup, purchased
+10140^cup, pureed
+10141^cup, quartered or chopped
+10144^cup, regular
+10148^cup, rounds
+10149^cup, sauce
+10150^cup, sections
+10151^cup, seedless
+10154^cup, shelled
+10155^cup, shelled (32 kernels)
+10156^cup, shelled (50 halves)
+10159^cup, shredded
+10160^cup, shredded or chopped
+10161^cup, sliced
+10165^cup, sliced, unblanched
+10166^cup, slices
+10168^cup, slivered, unblanched
+10169^cup, small pieces
+10170^cup, solid or chunks, drained
+10179^cup, strips
+10180^cup, strips or slices
+10187^cup, unpacked
+10192^cup, whole
+10193^cup, whole or halves
+10195^cup, whole, unblanched
+10199^cup, with hulls, edible yield
+10200^cup, with pits, yields
+10201^cup, with seeds, yields
+10205^cup
+10206^cup (not packed)
+10207^cup (1/2" cubes)
+10211^cup (4.86 eggs)
+10214^cup (78 kernels)
+10215^cup (8 fl oz)
+10218^cup (about 23 slices)
+10220^cup (pieces)
+10234^cup of miniatures
+10237^cup with liquid and clams
+10239^cup, chopped or diced, cooked
+10241^cup, hot
+10242^cup, sifted
+10243^cup, stirred
+10244^cup, without pits
+10245^cup whole kernels
+10246^cup, (1" pieces)
+10247^cup, chips
+10248^cup, unsifted
+10249^cup, thawed
+10250^cup (1/8" slices)
+10256^cup (unprepared)
+10259^cup chopped kernels
+10270^cup firmly packed
+10271^cup halves or slices
+10277^cup pieces or chips
+10278^cup sections with juice
+10285^cup unsifted, dipped
+10287^cup whipped
+10288^cup with pits
+10289^cup, (1" cubes)
+10290^cup, (1/2" pieces)
+10291^cup, (1/2" slices)
+10292^cup, cold
+10296^cup, poured from box
+10298^cup, spooned into cup
+10299^cup, unthawed
+10300^cup, without refuse
+10302^cup sections, without membranes
+10304^cup (6 oz package) chips
+10310^cup, cubed
+10313^cup whole, without pits
+10321^cup elbow shaped
+10322^cup spiral shaped
+10323^cup small shells
+10333^cup, undrained
+10334^cup, fluid (yields 2 cups whipped)
+10335^cup sprigs
+10336^cup, large chips
+10337^cup, mini chips
+10338^cup, Butterfinger BB's
+21000^tablespoon
+21005^tablespoon, whipped
+21024^tablespoon, unsifted
+21025^tablespoon, chopped
+22000^teaspoon
+22002^teaspoon, brownulated
+22003^teaspoon, dry
+22004^teaspoon, packed
+22005^teaspoon, unpacked
+22006^teaspoon, rounded
+22007^teaspoon, chopped
+30000^fl oz
+30001^fl oz (no ice)
+30002^fl oz (2 tablespoons)
+30003^fl oz (prepared)
+40000^oz
+40001^oz (11 whole kernels)
+40002^oz (14 halves)
+40003^oz (14 kernels)
+40004^oz, hulled (142 seeds)
+40005^oz (18 kernels)
+40007^oz (20 halves)
+40009^oz (22 whole kernels)
+40011^oz (3 kernels)
+40014^oz dry, yield after cooking
+40015^oz packet with 6 fl oz water
+40017^oz, boneless
+40018^oz, boneless, cooked
+40027^oz, boneless, raw
+40040^oz, cooked
+40043^oz, drained
+40049^oz, dry, yields
+40053^oz, raw
+40054^oz, raw (yield after cooking)
+40063^oz, shelled
+40067^oz, with bone (yield after bone removed)
+40072^oz, with bone, cooked (yield after bone removed)
+40093^oz, without shell
+40094^oz, without shell, cooked
+40099^oz (approx 2/3 cup)
+40100^oz (24 whole kernels)
+40104^oz (10-12 kernels)
+40107^oz (15 halves)
+40108^oz (47 kernels)
+40109^oz (6-8 kernels)
+40118^oz (approx 60 pcs)
+40132^oz, dry, with fruit, yields
+40133^oz, dry, plain, yields
+51000^cubic inch
+51004^cubic inch, boneless
+51005^cubic inch, boneless, cooked
+60017^12 oz can yields
+60025^2-layer cake (8" dia)
+60026^2-layer cake (8" or 9" dia)
+60036^4.4 oz container
+60037^5 oz container
+60039^6 oz container
+60040^8 oz container
+60052^Arrowroot biscuit (Include Arrowroot cookie)
+60095^Euphrates
+60097^Figaroo (2 square halves)
+60103^Fudge Marshmallow
+60106^Gerber jar (4 oz)
+60125^Harvest Wheat
+60141^Italian tomato
+60199^McDonald's salad dressing packet
+60227^Pepperidge Farm Chocolate Chunk Pecan Cookie
+60234^Pop Tart
+60246^Ritz Cracker
+60267^Sunshine Wheats Heart Shaped Cracker
+60292^Under Cover Bears packet, yields
+60308^Wheat Thins
+60309^Wheatable
+60311^Wheatsworth
+60315^almond
+60316^anchovy
+60317^anisette sponge (4" x 1-1/8" x 7/8")
+60320^apricot
+60322^apricot half with liquid
+60326^avocado, NS as to Florida or California
+60328^baby ear
+60345^bar
+60348^bar (.8 oz)
+60353^bar (1.2 oz)
+60354^bar (1.25 oz)
+60360^bar (1.4 oz)
+60361^bar (1.45 oz)
+60362^bar (1.5 oz)
+60363^bar (1.6 oz)
+60364^bar (1.65 oz)
+60366^bar (1.75 fl oz)
+60367^bar (1.75 oz)
+60368^bar (1.76 oz)
+60370^bar (1.813 oz)
+60372^bar (1.9 oz)
+60374^bar (2 oz)
+60375^bar (2" square)
+60377^bar (2.1 oz)
+60379^bar (2.16 oz)
+60380^bar (2.2 oz)
+60381^bar (2.28 oz)
+60383^bar (2.5 fl oz)
+60385^bar (3 fl oz)
+60388^bar (5 oz)
+60391^bar (bite size)
+60399^beet (2" dia)
+60400^berry
+60402^big cookie (3-1/2" - 4" dia) (include Archway brand, Grandma brand)
+60403^big cookie (3-1/2" - 4" dia) (include Grandma brand)
+60406^biscuit
+60407^biscuit (2" dia)
+60410^biscuit (2-1/4" dia)
+60412^biscuit (4" dia)
+60413^bite size
+60420^bottle (10 fl oz)
+60421^bottle (11 fl oz)
+60424^can or bottle (16 fl oz)
+60428^box
+60434^box (1.48 oz)
+60447^breakfast treat (approx 4" x 2" x 7/8")
+60448^breast, bone removed
+60454^brownie (2" square)
+60455^bunch
+60463^cake
+60482^can
+60484^can (1 oz)
+60489^can (10.5 oz), prepared
+60492^can (10.75 oz)
+60493^can (10.75 oz), prepared
+60497^can (11 oz), prepared
+60498^can (11 oz), undiluted
+60499^can (11.25 oz), prepared
+60500^can (11.5 oz), prepared
+60501^can (12 fl oz)
+60504^can (12 oz), oysters and liquid
+60507^can (13 oz)
+60510^can (14 oz), ready-to-serve
+60511^can (15 oz), drained, yields
+60513^can (18.75 oz), ready-to-serve
+60514^can (19 oz)
+60515^can (19 oz), ready-to-serve
+60516^can (19.25 oz), ready-to-serve
+60517^can (2 oz) drained
+60519^can (3.75 oz), drained
+60522^can (4.5 oz), drained
+60524^can (5 oz)
+60525^can (5 oz) yields
+60526^can (5.5 oz)
+60527^can (6 fl oz)
+60528^can (6.5 oz), drained
+60532^can (8 oz), solids and liquid
+60533^can or bottle (12 fl oz)
+60549^cheesefurter (8 per 12 oz package)
+60550^cherry
+60556^chicken
+60569^chimichanga
+60581^clove
+60587^coconut yields
+60589^cone
+60596^container (3 oz)
+60598^container, NFS
+60599^cookie
+60600^cookie (2" dia)
+60609^cracker
+60613^cracker (4-1/2" x 2-1/2" x 1/8")
+60620^cream puff
+60621^cream puff (3-1/2" x 2")
+60634^crispbread or cracker
+60636^croissant
+60641^cube
+60684^date
+60692^double stick
+60696^doughnut hole
+60697^doughnut stick
+60705^ear (yield after cooking)
+60708^eclair (5" x 2" x 1-3/4")
+60709^eclair, frozen
+60710^egg
+60718^egg jumbo (4" x 2")
+60725^eggplant, peeled (yield from 1.25 lb)
+60726^eggplant, unpeeled (approx 1.25 lbs)
+60730^enchilada
+60731^enchilada or enchirito
+60734^envelope
+60737^envelope (1 tablespoon)
+60738^envelope (1-1/3 cup)
+60741^envelope Alba (.675 oz)
+60743^envelope Swiss Miss (.53 oz)
+60744^envelope yields
+60749^extra large
+60750^extra large (1-5/8" dia)
+60752^extra large (approx 5" dia)
+60753^extra large bar (32 squares, 8 oz)
+60762^fast food package
+60763^fig
+60764^fig with liquid
+60765^fillet
+60782^floweret
+60785^foot long frankfurter roll
+60789^frankfurter
+60790^frankfurter (5 in long x 3/4 in dia, 10 per pound)
+60796^frankfurter, (5 in long x 7/8 in dia, 8 per pound)
+60813^fruit
+60814^fruit (2" dia)
+60815^fruit (2-1/2" dia)
+60816^fruit (2-1/8" dia)
+60817^fruit (2-3/8" dia)
+60818^fruit (2-7/8" dia)
+60819^fruit (7" x 5-1/4" dia)
+60822^fun size bar
+60823^fun size package
+60829^gold fish
+60831^grape
+60833^grape, seedless
+60834^grape, with seeds, yields
+60839^half
+60840^half with liquid
+60846^hamburger, frankfurter roll
+60847^hamburger, frankfurter, onion roll, bun, large roll
+60849^head
+60850^head (5" dia)
+60852^heart
+60860^hush puppy
+60863^individual box (2 oz)
+60864^individual cake
+60868^individual container
+60869^individual container (.5 fl oz)
+60871^individual loaf (include Keebler Elfin Loaves)
+60872^individual package
+60874^individual package (2 oz package containing 2 3" bars)
+60876^individual packet
+60880^individual serving (4-5 heaping teaspoon or 1 envelope)
+60894^jar (5 oz)
+60897^jar (6.25 oz)
+60899^jar (7.5 oz - 7.75 oz)
+60903^jar, NFS
+60905^jigger
+60906^jumbo
+60907^jumbo (approx 6" dia)
+60914^king size bar (4 oz)
+60919^large
+60920^large (1" to 1-1/4" dia)
+60921^large (1-3/8" dia)
+60924^large (2-1/2" dia)
+60927^large (2-3/4" dia) (approx 2-1/2 per lb)
+60928^large (2.25 per pound, approx 3-3/4" long, 3" dia)
+60929^large whole (3" dia)
+60930^large (3" to 4-1/4" dia, raw)
+60932^large (3-1/16" dia)
+60934^large (3-1/2" - 4" dia) (include Archway brand)
+60935^large (3-1/4" dia) (approx 2 per lb)
+60936^large (4" long)
+60938^large (4-1/2" long)
+60939^large (5-3/4" long x 3-1/4" dia)
+60945^large (6-1/2" dia)
+60947^large (7-1/4" to 8-1/2" long)
+60950^large (8-1/4" long)
+60955^large (approx 3-1/2" - 4" dia)
+60956^large (approx 7" dia)
+60958^large (include Keebler Rich 'n Chips, Pecan Chips Deluxe)
+60966^large McDonald's shake (22 fl oz)
+60975^large bar (21 squares, 4 oz)
+60985^large burrito
+61000^large doughnut (approx 4-1/4" dia)
+61008^large ear (7-3/4" to 9" long)
+61009^large egg
+61014^large fillet (7" x 2-1/4" x 1/4")
+61018^large head
+61019^large head (6-7" dia)
+61020^large head (about 5-1/2" dia)
+61021^large head (about 7" dia)
+61025^large leaf
+61034^large melon (about 6 1/2" dia)
+61038^large mussel
+61039^large or thick slice
+61042^large patty
+61045^large pear (approx 2 per lb)
+61046^large pepper (3-3/4" long, 3" dia)
+61053^large pita (6-1/2" dia)
+61056^large rectangular piece or 2 squares or 4 small rectangular pieces
+61059^large roll or bun (3-1/2" dia)
+61061^large round cracker
+61069^large slice
+61070^large slice (1/4" thick)
+61071^large slice (4-1/2" x 3-1/4" x 3/4")
+61072^large slice (5" x 2-1/2" x 1")
+61078^large stalk (11" - 12" long)
+61085^large strip (3" long)
+61086^large submarine, hoagie roll
+61099^large waffle cone
+61100^large wedge (1/8 of large melon)
+61106^large, Gherkin (3" long)
+61115^lb, with shell, yield after shell removed
+61116^leaf
+61120^leek
+61125^leg (yield after cooking, bone removed)
+61132^link
+61138^link (4" long x 1-1/8" dia)
+61139^link (4" long)
+61142^link (7/8" dia x 4" long)
+61143^link (raw dimensions: 4" long x 7/8" dia), cooked
+61151^little link (2" long x 3/4" dia)
+61152^liver
+61162^lobster
+61172^long melon (15" long x 7-1/2" dia)
+61173^long type (2-1/3" dia, 4-3/4" long, raw)
+61176^long type (twist) doughnut (4-1/2" long)
+61177^long type (twist) doughnut (approx 5-1/4" x 2-1/2" x 1-1/2" high)
+61178^lump, 2 cubes
+61182^malasadas
+61186^matzo
+61238^medium
+61239^medium (2-3/4" dia) (approx 3 per lb)
+61241^medium (1-1/4" dia)
+61248^medium (2" dia, 5" long, raw)
+61249^medium (2-1/2" dia)
+61250^medium (2-1/2" dia) (approx 4 per lb)
+61251^medium (2-1/4" dia)
+61252^medium (2-1/4" to 3" dia, raw)
+61254^medium whole (2-3/5" dia)
+61255^medium (2-3/8" dia)
+61259^medium (3-3/4" long)
+61260^medium (3-5/8" long)
+61261^medium (3/4" to 1" dia)
+61264^medium (4-1/8" long)
+61269^medium (5-1/8" long x 3" dia)
+61284^medium (approx 2-3/4" long, 2-1/2" dia)
+61286^medium (approx 5" dia)
+61295^medium McDonald's shake (16 fl oz)
+61319^medium cookie (1-5/8" dia)
+61320^medium cookie (2" dia)
+61322^medium cookie (2-1/4" dia)
+61336^medium doughnut (3-1/4" dia)
+61337^medium doughnut (approx 3-3/4" dia)
+61345^medium ear (6-3/4" to 7-1/2" long)
+61349^medium fillet (5" x 1-3/4" x 1/4")
+61354^medium head (5-6" dia)
+61355^medium head (6" dia)
+61356^medium head (about 5" dia)
+61357^medium head (about 5-3/4" dia)
+61362^medium leaf
+61370^medium melon (about 5" dia)
+61373^medium mussel
+61379^medium pear (approx 2-1/2 per lb)
+61398^medium slice
+61400^medium slice (1/4" thick)
+61401^medium slice (1/8" thick)
+61404^medium slice (4-1/2" dia x 1/8" thick) (1 oz)
+61405^medium slice (4-3/4" x 4" x 1/2")
+61408^medium slice (approx 3" x 2" x 1/4")
+61418^medium stalk (7-1/2" - 8" long)
+61425^medium strip
+61426^medium submarine, hoagie roll
+61435^medium tortilla (approx 6" dia)
+61441^medium wedge (1/8 of medium melon)
+61447^medium, Gherkin (2-3/4" long)
+61450^melba round
+61451^melon
+61452^melon (5-1/4" dia)
+61453^melon (6" - 7" dia)
+61458^midget, Gherkin (2-1/8" long)
+61459^milkshake (10 fl oz)
+61460^mini croissant
+61462^mini doughnut (1-1/2" dia) or doughnut hole
+61469^miniature (3" dia)
+61471^miniature bar
+61472^miniature bar (.35 oz)
+61474^miniature box (.5 oz)
+61476^miniature cream puff
+61477^miniature cup
+61491^muffin
+61492^miniature muffin (1-1/4" dia)
+61509^nut
+61510^nutmeat
+61516^oval cracker
+61517^oval patty (approx 3" x 1-1/2" x 1/2")
+61519^oyster
+61520^oyster cracker
+61528^package
+61531^package (1 oz)
+61532^package (1.375 oz)
+61534^package (1.5 oz)
+61535^package (2 peanut butter cups, 1.6 oz)
+61537^package (1.67 oz)
+61538^package (1.69 oz)
+61539^package (1.75 oz)
+61541^package (1.89 oz, 2 bars)
+61542^package (1.91 oz)
+61544^package (10 oz) yields
+61545^package (2 oz)
+61547^package (2 oz, 54 pieces)
+61548^package (2.06 oz, 2 bars)
+61549^package (2.07 oz)
+61552^package (2.5 oz)
+61554^package (3 oz) yields
+61556^package (3.5 oz)
+61557^package (4 oz)
+61559^package (4.5 oz)
+61563^package (6 oz)
+61564^package (6 oz) yields
+61565^package (7 oz)
+61567^package (8 oz)
+61571^package yields
+61573^packet
+61579^packet (2/3 tablespoon)
+61585^packet (fruit) dry, yields
+61589^packet dry mix with 6 fl oz water
+61593^packet, dry, yields
+61594^packet, prepared
+61595^pad
+61602^pancake
+61612^pancake (4" dia)
+61616^pancake (6" dia)
+61629^pastry
+61631^pat
+61632^pat (1" sq, 1/3" high)
+61633^patty
+61637^patty (3-7/8" dia x 1/4" thick)
+61638^patty (4 oz, raw) (yield after cooking)
+61641^patty (approx 2-1/4" dia)
+61642^patty (raw dimensions: 3-7/8" dia x 1/4" thick), cooked
+61643^patty shell
+61645^patty, cooked
+61647^peanut
+61652^pepper
+61665^pie (9" dia)
+61666^pie shell (9" dia)
+61667^piece
+61672^piece (1-3/4" x 1-1/4" x 1/2")
+61673^piece (1-3/4" x 7/8" x 1/2")
+61680^piece (1/10 of 9" dia)
+61681^piece (1/10 of cake)
+61684^piece (1/12 of 10" dia)
+61689^piece (1/12 of 8" dia)
+61692^piece (1/12 of 9" dia)
+61701^piece (1/6 of pie)
+61703^piece (1/8 cake)
+61709^piece (1/8 of 9" dia)
+61714^piece (2" x 2" x 1/2")
+61718^piece (2-1/2" x 2-3/4" x 1")
+61722^piece (3-3/4" x 1-3/4" x 1/8")
+61725^piece (4" x 2" x 1/2")
+61728^piece (4-1/2" x 2-1/8" x 7/8")
+61730^piece (5-1/2" x 1-1/2" x 1/2")
+61749^pint, as purchased, yields
+61753^pizza (12" dia)
+61763^plum tomato
+61764^plum with liquid
+61766^pod
+61767^pomegranate (3-3/8" dia)
+61785^pretzel
+61787^prune
+61789^puff
+61803^rectangular biscuit
+61804^rectangular cracker
+61813^regular slice
+61815^regular slice, crust not eaten
+61820^ring
+61821^ring (3" dia, 1/4" thick)
+61823^roll
+61827^roll (1.74 oz)
+61835^root
+61840^round cracker
+61845^round waffle (4" dia) (include frozen)
+61847^round waffle (7" dia)
+61850^rusk
+61853^sandwich
+61863^sapodilla
+61868^sausage
+61869^sausage (10" long x 1-1/4" dia)
+61870^sausage (10-1/4" long x 1-3/8" dia)
+61871^sausage (7/8" dia x 2" long)
+61875^scoop
+61890^serving
+61920^single serving bag
+61924^single serving box (.75 oz)
+61925^single serving box (.875 oz)
+61926^single serving box (1 oz)
+61932^single stick
+61935^slice
+61936^slice, NFS (.75 oz)
+61937^slice (1 oz)
+61938^slice (1 oz) (4" x 4" x 3/32" thick)
+61942^slice (1-3/8" dia x 1/8" thick)
+61944^slice (1/2" thick, approx 8 slices per can)
+61946^slice (15 per 8 oz package)
+61948^slice (2-1/2" dia x 1/4" thick)
+61961^slice (3-1/2" dia x 3/4" thick)
+61967^slice (3-1/8" dia x 1/16" thick)
+61976^slice (4" dia x 1/8" thick)
+61977^slice (4" dia x 1/8" thick) (10 per 8 oz package)
+61981^slice (4" x 4" x 3/32" thick)
+61985^slice (4-1/4" x 4-1/4" x 1/16")
+61987^slice (4-1/8" dia x 1/8" thick) (10 per 8 oz package)
+61992^slice (6-1/4" x 4" x 1/16")
+61993^slice (6-1/4" x 4" x 1/16") (1 oz)
+62000^slice or wedge
+62011^slice, crust not eaten
+62014^slice, snack-size
+62015^small
+62016^small (2-1/2" dia) (approx 4 per lb)
+62017^small (1" dia)
+62018^small (1-1/2" dia)
+62020^small (1-3/4" to 2-1/4" dia, raw)
+62025^small (2" dia) (approx 5 per lb)
+62027^small (2-1/4" dia)
+62028^small whole (2-2/5" dia)
+62029^small (2-3/8" dia)
+62030^small (3" long)
+62034^small (4-1/2" long x 2-3/4" dia)
+62041^small (5-1/2" long)
+62046^small (6-3/8" long)
+62062^small McDonald's shake (12 fl oz)
+62072^small box (1.5 oz)
+62076^small burrito
+62094^small doughnut (approx 3" dia)
+62102^small ear (5-1/2" to 6-1/2" long)
+62107^small fillet (2-3/8" x 1-3/8" x 1/4")
+62108^small fish (2-2/3" x 1/2" x 1/4")
+62113^small head
+62114^small head (4" dia)
+62115^small head (about 4-1/2" dia)
+62119^small leaf
+62128^small melon (about 4 1/4" dia)
+62132^small mussel
+62133^small or frozen (approx 3" dia)
+62139^small package (3 oz)
+62142^small patty
+62146^small pear (approx 3 per lb)
+62149^small piece
+62155^small pita (4" dia)
+62164^small slice
+62166^small slice (2-1/2" x 2" x 1/2")
+62167^small slice (3-1/4" x 2-1/2" x 1/2")
+62172^small square cracker
+62174^small stalk (5" long)
+62180^small stick (approx 4-1/4" long)
+62181^small submarine, hoagie roll
+62195^small wedge (1/8 of small melon)
+62201^small, Gherkin (2-1/2" long)
+62206^snack size (4 oz)
+62208^snack stick
+62216^spear
+62217^spear (about 5" long)
+62219^spear, Gherkin
+62222^sprig
+62223^sprout
+62228^square cracker
+62230^square waffle (4" square) (include frozen)
+62234^stalk
+62239^stick
+62245^stick (4" x 1" x 1/2")
+62251^stick, 4" long
+62252^strip
+62255^strip (4" long)
+62266^submarine
+62272^sundae
+62274^tablet
+62289^tart shell
+62297^thick slice
+62298^thick/large slice (1/2" thick)
+62301^thick slice (approx 3" x 2" x 3/8")
+62308^thin slice
+62309^thin slice (3-1/2" dia x 1/2" thick)
+62316^thin slice, crust not eaten
+62318^thin strip
+62319^thin wafer
+62321^toaster muffin
+62322^tomato
+62327^tortilla (approx 10" dia)
+62328^tortilla (approx 12" dia)
+62341^tube cake (10" dia, 4-3/8" high)
+62350^very thin slice
+62351^wafer
+62352^wedge (1.33 oz)
+62353^wedge (1/4 of medium tomato)
+62354^wedge (1/8 of 5-1/4" dia melon)
+62355^wedge (1/8 of 6" to 7" dia melon)
+62357^wedge (approx 1/16 of melon)
+62358^wedge or slice (1/8 of one 2-1/8" dia lemon)
+62366^whole pimiento
+62367^whole, canned
+62370^wine glass (3.5 fl oz)
+62389^1/2 cup
+62394^1/2 large (approx 4-1/2" dia)
+62401^1/2 medium (approx 4" dia)
+62411^1/2 small (approx 3-1/2" dia)
+62419^1/3 cup (makes 1 cup reconstituted milk)
+62420^1/4 cup
+62424^10 Chiclets
+62425^10 Crispy Crowns
+62427^Norwegian flatbread cracker (4-3/4" x 2-3/4" x 1/16")
+62429^10 Triscuit Bits
+62430^10 assorted nuts
+62432^10 beans
+62433^10 beans (4" long)
+62439^10 cantaloupe balls
+62441^10 chips
+62442^10 combos
+62449^10 gumdrops
+62450^10 gummy bears
+62451^10 gummy dinosaurs
+62452^10 gummy fish
+62453^10 gummy worms
+62454^10 honeydew balls
+62455^10 kernels
+62457^10 large rings (3-4" dia)
+62459^10 medium rings (2-3" dia)
+62460^10 miniatures
+62461^10 nuts
+62464^10 pea pods
+62466^10 pieces
+62469^10 puffs
+62470^10 raspberries
+62472^10 rings
+62475^10 shrimp
+62476^10 slices
+62477^10 small
+62478^10 small rings (1 -2" dia)
+62481^10 sprigs
+62485^10 strips
+62492^10 watermelon balls
+62508^30 nuts
+62509^32 nuts
+62510^33 nuts
+62511^4 cubes
+62515^5 oz package
+62516^5 pieces
+62519^50 berries
+62520^50 raisins
+62522^8 caps
+62524^Juice of 1 lemon (2-1/8" dia)
+62525^Juice of 1 lime (2" dia)
+62527^Juice of 1 wedge or slice
+62544^fruit, without refuse
+62545^package, (net weight, 6 oz)
+62548^package (12 oz)
+62549^package (10 oz)
+62550^3-lb package
+62551^2 lb package
+62552^2 tablespoons
+62553^2 teaspoons
+62554^1/2 cup slices
+62556^1/2 cup, chopped
+62558^From 1 lb ready-to-cook chicken
+62559^package, (net weight, 8 oz)
+62560^kernels from 1 ear
+62561^fruit, without skin and seeds
+62562^slice, (2-3/4" dia x 1/16")
+62563^10 slices, (2-1/2" dia)
+62565^3 slices packed 15/12-oz bag, after cooking
+62566^9 oz package
+62567^4 tablespoons (1/4 cup)
+62568^can (6 oz)
+62570^package (5.5 oz)
+62572^medium artichoke
+62573^1/6 of 5.5 oz package
+62576^neck, bone removed
+62577^1/2 back, bone removed
+62578^1.5 oz
+62579^dash
+62580^0.35 oz
+62581^0.42 oz packet
+62583^0.67 oz packet
+62584^0.7 oz
+62590^balsam-pear
+62591^bar (1.55 oz)
+62592^bar (1.625 oz)
+62595^bar (2 fl oz)
+62596^bar (2.13 oz)
+62598^bar (2.25 oz)
+62599^bar (2.8 oz)
+62600^bar (3 oz)
+62603^block
+62605^box, (net weight, 1.72 lb)
+62606^broadbean
+62607^box, (net weight, 2.5 lb)
+62611^can (10.5 oz)
+62614^can (11.25 oz)
+62615^can (11.5 oz)
+62619^can (21 oz)
+62620^can (29 oz) (401 x 411)
+62621^can (300 x 407)
+62622^can (404 x 307)
+62628^carrot
+62629^carrot, (7-1/2")
+62630^chayote, (5-3/4")
+62631^chicken, bone removed
+62637^cocktail (2 fl oz)
+62638^container, (net weight, 10.6 oz)
+62639^container, (net weight, 11 oz)
+62640^cracker, (1" square)
+62645^cucumber, (8-1/4")
+62700^doughnut, (approx 1-1/2 oz)
+62707^drumstick, bone removed
+62708^ear
+62709^1/10 of 10 oz package
+62716^frond, (6-1/2" long)
+62718^fruit, (2-5/8" dia, sphere)
+62719^3 slices
+62725^fruit, without seeds
+62726^gizzard
+62729^quail
+62731^individual cup (3.5 fl oz)
+62732^innerleaf
+62733^jar
+62736^kidney
+62737^ladyfinger
+62739^shoot
+62740^large egg yolk
+62741^fruit, (3" x 1")
+62742^half, 1-3/4 tablespoon liquid
+62743^large egg white
+62745^large fruit, without skin
+62750^lb
+62753^from 1 lb ready-to-cook duck
+62754^from 1 lb ready-to-cook goose
+62755^from 1 lb ready-to-cook guinea
+62756^from 1 lb ready-to-cook pheasant
+62757^from 1 lb ready-to-cook quail
+62758^from 1 lb ready-to-cook squab
+62760^from 1 lb ready-to-cook turkey
+62763^lb raw with refuse, yields, excluding refuse
+62764^lb raw yields
+62768^lb raw, boneless, yield after cooking
+62769^10 oz package, mashed
+62770^lb unheated product, after cooking
+62771^leaf, (11" x 6-1/2")
+62772^leg
+62775^large piece
+62777^link, 4/lb
+62778^link, 5/lb
+62780^large artichoke
+62782^medium fruit, without skin
+62788^mushroom
+62789^oblong biscuit
+62790^onion
+62814^package, (net weight, 5 oz)
+62815^package, (net weight, 7 oz)
+62817^packet (0.675 oz)
+62818^packet (0.5 oz)
+62819^packet (36 fl oz prepared)
+62821^packet (6 fl oz prepared)
+62825^parsnip, (9" long)
+62826^pastry, (4-1/4" dia)
+62829^patty, (2.25 oz)
+62830^patty, (3.33 oz)
+62836^package (0.35 oz)
+62837^package (1.74 oz)
+62838^package (1.77 oz)
+62840^package (1.9 oz)
+62843^package (0.5 oz)
+62844^package (2.3 oz)
+62846^package (3 oz)
+62847^package (3.12 oz)
+62848^package, (net weight, 12 oz)
+62850^packet, (6 fl oz)
+62851^pod, 15-1/3 in long
+62852^potato skin
+62853^potato, (2-1/2" dia, sphere)
+62854^potato, (2-1/3" x 4-3/4")
+62856^quart
+62858^radish, (7" long)
+62861^raw steak yields
+62862^regular
+62866^roll, (2-1/2" dia)
+62869^root, 9-1/2 in long
+62872^sheet
+62873^shell
+62887^slice, (5" x 4-5/8" x 1/16")
+62888^slice, (6" x 3-3/4" x 1/16")
+62895^squab
+62896^square (1 oz)
+62898^steak
+62899^stem, 8-3/4 in long
+62902^sweetpotato, (5")
+62918^thick slice, packed 12/lb
+62922^toaster pastry
+62925^turkey
+62926^waxgourd
+62930^1-1/3 oz box
+62936^1.5 cups
+62937^1.5 fl oz
+62938^1.5 fl oz jigger
+62940^1/10 fruit
+62943^1/2 back, bone and skin removed
+62946^1/2 breast, bone and skin removed
+62948^1/2 cup (4 fl oz)
+62951^1/2 chicken, bone removed
+62952^1/2 chicken, separable fat
+62953^1/2 chicken, skin only
+62954^1/2 cup chopped or diced
+62955^1/2 cup cubes
+62956^1/2 cup cut
+62957^1/2 cup diced
+62958^1/2 cup halves
+62959^1/2 cup hearts
+62960^1/2 cup kernels
+62961^1/2 cup mashed
+62962^1/2 cup shredded
+62963^1/2 cup, (1" pieces)
+62964^1/2 duck
+62965^1/2 fillet
+62966^1/2 foot
+62967^1/2 fruit, (3-3/4" dia, sphere)
+62971^1/2 goose
+62972^1/2 guinea
+62974^1/2 lb
+62976^1/2 pheasant
+62978^1/2 teaspoon
+62979^1/2 turkey, bone and skin removed
+62982^1/3 10-oz package, mashed
+62986^1/4 box, (net weight, 0.43 lb)
+62987^1/4 box, (net weight, 0.625 lb)
+62988^1/4 cup chopped
+62989^1/4 cup chopped or diced
+62990^1/4 cup slices, (1" dia)
+62994^1/4 small fruit
+62995^1/8 can
+63007^10 fruits
+63010^10 halves
+63013^10 large (1 oz)
+63016^10 oz
+63018^10 oz package, chopped
+63024^10 seeds
+63025^10 sheets
+63026^10 twists
+63041^16 oz package
+63042^18 oz package
+63043^2 beets, (2" dia, sphere)
+63044^2 cakes
+63048^2 large or 5 small
+63049^2 leaves
+63050^2 medium
+63052^2 oz
+63055^2 pieces
+63056^2 round biscuits
+63057^2 sardines
+63058^2 slices (6 per 6-oz pkg.)
+63061^2 stalks
+63062^2 tablespoons, rounded
+63063^2 teaspoons, rounded
+63064^2-1/2 lb pack
+63067^2-3 heaping teaspoons
+63069^20 oz package
+63070^20 pieces
+63073^3 flowerets
+63074^3 fruits
+63081^3 medium slices packed 20/lb raw, after cooking
+63082^3 medium slices, packed 20/lb
+63083^3 oz
+63087^3 stalks
+63106^4 large
+63108^4 mushrooms
+63109^4 oz
+63112^4 spears
+63113^4 spears, (1/2" base)
+63114^4 waterchestnuts
+63118^5 fruits, 2 tablespoons liquid
+63119^5 slices
+63120^5 slices, (1" dia)
+63123^6 fl oz glass
+63125^6 medium
+63126^6 pieces
+63127^6 slices
+63132^6.5 fl oz bottle
+63133^can (6.8 fl oz, 200 ml)
+63135^7 oz bag
+63136^7 oz can
+63137^7-1/2 oz bag
+63140^8 crayfish
+63141^8 oz
+63142^8 oz bag
+63145^8 oz package, (approx 1-1/2 cup)
+63147^8 pods, (3" long)
+63153^Amount of dry mix to make 8 fl oz prepared
+63155^Giblets
+63158^amount to make 1/2 cup
+63159^package yield (2 cups)
+63160^recipe yield
+63161^recipe yield (48 pieces)
+63162^recipe yield (60 pieces)
+63164^yield from 1 lb raw
+63165^1/3 cup
+63166^6 fl oz
+63170^package, (net weight, 3 oz)
+63171^1/2 oz
+63173^9 large or 20 small
+63175^9 plants
+63256^juice from 1 fruit
+63259^2 slices
+63260^1/8 cup or 2 tablespoons
+63261^1/2 chicken, bone and skin removed
+63268^cube (6 fl oz prepared)
+63377^15 oz can (303 x 406)
+63378^bar (3.375 oz)
+63382^cupcake
+63393^Beech-Nut Baby's First Jar (2.5 oz)
+63394^Beech-Nut Stage 1 Jar (4 oz)
+63395^Gerber First Foods Jar (2.5 oz)
+63411^Nabisco Twig
+63424^bite size (include Mini Chips Ahoy!)
+63434^Earth's Best jar (4.5 oz)
+63435^bar (2.05 oz)
+63441^rectangle cracker
+63444^slice or ring (3 " dia) with liquid
+63445^small croissant
+63446^medium croissant
+63447^large croissant
+63450^pan, dinner, or small roll (2" square, 2" high)
+63451^thin slice (3-3/4" x 5" x 3/8")
+63459^small spear (5" long or less)
+63460^medium spear (5-1/4" to 7" long)
+63461^large spear (7-1/4" to 8-1/2" long)
+63462^extra large spear (8-3/4" to 10" long)
+63463^spear tip (2" long or less)
+63478^school milk carton (1/2 pint)
+63479^small (6" to 6-7/8" long)
+63490^extra small (less than 6" long)
+63502^Gerber Second Foods Jar (4 oz)
+63511^McDonald's biscuit
+63512^Hardee's biscuit
+63513^Toaster Strudel
+63516^Earth's Best bottle (4.2 fl oz)
+63517^Heinz Strained bottle (4 fl oz)
+63518^Gerber First Foods bottle (4 fl oz)
+63519^Beech-Nut Stage 1 bottle (4 fl oz)
+63522^medium (7" to 7-7/8" long)
+63523^extra large (9" or longer)
+63524^large (8" to 8-7/8" long)
+63540^drink box (8.45 fl oz)
+63554^serving (3 heaping teaspoons or 1 envelope)
+63555^serving (2-3 heaping teaspoons)
+63561^bag (6 oz)
+63562^bagel (3" dia)
+63563^bagel (3-1/2" dia)
+63564^bagel (4" dia)
+63565^bar (1 oz)
+63566^bar (2.75 fl oz)
+63569^cake (0.6 oz)
+63570^can (303 x 406)
+63571^can (6.25 oz)
+63572^can (6.75 oz)
+63573^cookie (1-5/8" square)
+63574^cracker (2-1/2" square)
+63575^cruller (3" dia)
+63579^doughnut (2" dia)
+63580^doughnut (3-1/2" x 2-1/2" oval)
+63581^doughnut (3-3/4" dia)
+63582^drumstick, bone and skin removed
+63583^eggroll wrapper (7" square)
+63584^fried pie (5" x 3-3/4")
+63585^honeybun (4" x 3" oval)
+63586^honeybun (4-1/2" x 3-1/2" oval)
+63587^honeybun (5" x 3-1/2" oval)
+63589^large (2-3/4" sq x 7/8")
+63590^large muffin (3-1/4" dia x 2-3/4")
+63591^large wafer (3-1/2" x 1" x 1/2")
+63592^leg, bone and skin removed
+63593^leg, bone removed
+63594^marshmallow pie (3" dia x 3/4")
+63595^mini bagel (2-1/2" dia)
+63596^muffin (2-1/2" dia x 2-1/4")
+63599^oval cookie (3-1/8" x 1-1/4" x 3/8")
+63600^package (11 oz, without refuse)
+63601^package (9 oz), yields
+63602^packet (1.1 oz)
+63604^piece (1/10 of 10.6 oz cake)
+63605^piece (1/12 of 12 oz cake)
+63606^piece (1/12 of 16 oz cake)
+63607^piece (1/4 of 6" pie)
+63608^piece (1/6 of 7" pie)
+63609^piece (1/6 of 8" pie)
+63610^piece (1/8 of 15 oz ring)
+63611^piece (1/8 of 18 oz cake)
+63613^piece (1/8 of 7" pie)
+63614^piece (1/8 of 8" x 5-3/4" cake)
+63615^piece (1/9 of 20 oz cake)
+63617^piece (2-1/2" x 2" dia)
+63618^roll (1 oz)
+63619^roll (2-3/4" square)
+63620^roll (3-1/2" dia)
+63621^round cookie (1-3/4" dia)
+63623^sandwich cracker
+63625^slice (5" x 3" x 1/2")
+63627^slice (5" x 4" x 3/8")
+63629^small cookie (1-3/4" dia x 3/4")
+63630^small wafer (2-1/2" X 3/4" X 1/4")
+63631^snack cake (2.5 oz)
+63632^stick (7-5/8" x 5/8")
+63633^stick (9-1/4" x 3/8")
+63634^super colossal
+63635^thigh, bone and skin removed
+63636^thigh, bone removed
+63637^thin square cracker
+63638^toast
+63639^triple cracker
+63642^wing, bone and skin removed
+63643^wing, bone removed
+63644^wonton wrapper (3-1/2" square)
+63645^1/12 package
+63646^1/2 breast, bone removed
+63648^10-1/2" diameter
+63654^4 oz patty
+63655^5" diameter
+63658^Single 9" crust
+63659^1/2 turkey, bone removed
+63661^package yield (2-1/2 cups)
+63679^serving (3 heaping teaspoons)
+63680^serving (1 rounded teaspoon)
+63694^Gerber Graduates container (4.5 oz) yields
+63696^Ry Krisp wafer (triple cracker)
+63697^Wasa rye crispbread
+63703^Popeye's biscuit
+63704^child/senior drink (12 fl oz)
+63705^small drink (16 fl oz)
+63706^medium drink (22 fl oz)
+63707^large drink (32 fl oz)
+63708^extra large drink (44 fl oz)
+63710^Gerber Graduates jar (2.5 oz)
+63712^bottle, NFS
+63714^packet (.75 oz)
+63715^Tasty-Klair pie
+63719^Beech-Nut Stage 3 jar (6 oz)
+63720^Beech-Nut Stage 2 jar (4 oz)
+63721^Beech-Nut Stage 1 jar (2.5 oz)
+63722^Beech-Nut Table Time container (6 oz)
+63724^Gerber Zwieback toast
+63725^Gerber Third Foods jar (6 oz)
+63726^Gerber Second Foods jar (2.5 oz)
+63727^Gerber Third Foods jar (2.5 oz)
+63731^Heinz Junior-3 jar (6 oz)
+63732^Heinz Junior-3 jar (2.5 oz)
+63733^Heinz Strained-2 jar (2.5 oz)
+63734^Heinz Strained-2 jar (4.25 oz)
+63735^Heinz Strained-2 jar (4 oz)
+63736^Heinz Beginner-1 jar (2.5 oz)
+63741^Nabisco Chips Ahoy!
+63745^small (4" long)
+63746^medium (4-1/2" long)
+63747^large (5" long)
+63748^bottle (4 fl oz)
+63749^Beech-Nut Stage 2 bottle (4 fl oz)
+63750^Gerber Second Foods bottle (4 fl oz)
+63751^Beech-Nut Stage 3 bottle (4 fl oz)
+63760^2/3 cup (#6 scoop)
+63766^3/4 cup
+63775^Little Debbie cookie
+63789^Dannon Sprinkl'ins container (4.1 oz)
+63799^king size package (3.35 oz, 4 bars)
+63847^thin/small slice
+63862^king size bar
+63865^Kentucky Fried Chicken biscuit
+63870^individual cup (.6 oz)
+63871^Little Debbie package (twin wrapped)
+63873^10 Butterfinger BB's
+63892^spice stick
+63893^spice drop
+63894^small gumdrop (1/2" dia)
+63895^medium gumdrop (3/4" dia)
+63896^large gumdrop (1" dia)
+63897^jelly ring (1-1/4" dia)
+80000^bar (2.15 oz)
+80001^breast
+80002^capon
+80006^cocktail (4.5 fl oz)
+80011^crab
+80012^cream puff shell
+80013^cup (1 NLEA serving)
+80014^cup (not packed, large curd)
+80015^cup (not packed, small curd)
+80016^cup, crumbled, not packed
+80017^cup, shredded, not packed
+80018^flower
+80019^fruit (2-11/16 in diam)
+80020^gourd
+80021^neck, bone and skin removed
+80022^package (1.58 oz)
+80023^package (10.5 oz)
+80024^package (11 oz)
+80025^package (14.5 oz)
+80026^package (17.5 oz)
+80027^package (18.25 oz)
+80028^package (18.5 oz)
+80030^package (2.17 oz)
+80031^package (21.5 oz)
+80032^package (8.5 oz)
+80033^package (9 oz)
+80034^package (9.43 oz)
+80035^plant
+80036^potato
+80037^sheet dough
+80038^squash
+80039^stick (2.25 oz)
+80040^whole bird
+80041^yam
+80042^1-1/2 cup (1 NLEA serving)
+80043^1-1/3 cup (1 NLEA serving)
+80044^1-1/4 cup (1 NLEA serving)
+80045^1-2/3 tablespoon (1 NLEA serving)
+80047^1/2 BIRD
+80048^1/2 capon, bone removed
+80049^1/2 cup (1 NLEA serving)
+80050^1/2 scoop (2 tablespoons)
+80051^1/2 turkey, skin only
+80052^1/3 cup (1 NLEA serving)
+80054^1/4 block
+80055^1/4 cup (1 NLEA serving)
+80056^1/4 lb
+80057^1/6 of 16 oz cake
+80058^1/6 of 17 oz cake
+80059^1/6 of 19 oz cake
+80060^1/8 of 9 in crust
+80062^1/9 of 8 in square cake
+80063^10 fl oz
+80065^2 eggs
+80066^2 fl oz
+80067^2 large scallops
+80068^2 oz mix + 1.5 oz whiskey
+80070^2/3 cup (1 NLEA serving)
+80071^20 small clams
+80072^3 (3/4 fl oz) ice cubes
+80073^3/4 cup (1 NLEA serving)
+80074^5 leaves
+80075^5 sprigs
+80076^6 fl oz + 0.53 oz packet
+80077^6-8 nachos
+80078^6-8 shrimp
+80079^7.25 oz packet
+80080^8-9 onion rings
+80081^amount to make 1 tablespoon
+80082^Dough for 1 cookie
+80083^From 1 lb ready-to-cook capon
+80084^mix + drained berries
+80085^yield from 9 oz package
+80089^1/2 container, 4 oz net weight
+80090^can (20 oz)
+80091^can (19.5 oz)
+80092^regular packet
+80093^instant packet
+80094^1/4 teaspoon
+80095^slice (5-7/8" x 3-1/2" x 1/16")
+80096^link, 7 per lb
+80097^6 fl oz container
+80098^yield, 1/3 of 9 oz package
+80099^4 spears
+80100^1/2 cup, 1/2 in pieces
+80101^1/3 of 10 oz package
+80102^yield, 1/3 of 10 oz package
+80103^1/2 cup, 1 in pieces
+80104^petiole
+80105^3 lb package
+80106^3 cloves
+80107^1/2 cup, 1 in slices
+80108^head, 6 in dia
+80109^1/2 cup pieces
+80110^rings
+80111^7 rings
+80112^Yield, 1/6 of 5.5 oz package
+80113^cup flowers
+80114^10 sprouts
+80116^squash, 4 in dia
+80117^4 lb package
+80118^leaf, 12-1/4 in long
+80119^medium corm
+80120^1/5 head
+80121^oz (8-14 seeds)
+80122^oz (42 medium seeds)
+80123^5 anchovies
+80124^sardine
+80125^3 saltines
+80126^6 saltines
+80127^4.5 oz
+80128^bagel (4-1/2" dia)
+80129^biscuit (2-1/2" dia)
+80130^cake (9" dia x 4")
+80131^cookie (2-5/8" dia)
+80132^cookie (3" dia)
+80134^large doughnut (4" dia)
+80135^medium doughnut (approx 3" dia)
+80136^large doughnut (approx 3-1/2" dia)
+80137^muffin (2-3/4" dia x 2")
+80139^tortilla (approx 7-8" dia)
+80140^slice (3-1/2" square; 8 per 6 oz package)
+80141^7 sausages (drained contents from can, net wt 4 oz)
+80142^Yield, 5.5 oz package
+80143^Yield, 12 oz package
+80144^can (12.5 oz) drained
+80145^1-1/2 oz
+80146^link, 4 per 12 oz package
+80147^oz (15 kernels)
+80148^oz (85 seeds)
+80149^fruit, 2-1/4 in high x 2-1/2 in dia
+80150^fruit, 3-3/8 in high x 3 in dia
+80151^cup (6 fl oz)
+80152^bulb
+80153^raw steak with refuse, 174 g; yields excluding refuse
+80154^raw steak with refuse, 261 g; yields excluding refuse
+80155^raw steak with refuse, 135 g; yields excluding refuse
+80156^raw steak with refuse, 223 g; yields excluding refuse
+80157^raw steak with refuse, 162 g; yields excluding refuse
+80158^raw steak with refuse, 320 g; yields excluding refuse
+80159^raw steak with refuse, 242 g; yields excluding refuse
+80160^raw steak with refuse, 154 g; yields excluding refuse
+80161^package (12 oz) yields, cooked
+80162^raw chop with refuse, 151 g; yields excluding refuse
+80163^raw chop with refuse, 113 g; yields excluding refuse
+80164^raw steak with refuse, 300 g; yields excluding refuse
+80165^raw chop with refuse, 120 g; yields excluding refuse
+80166^raw chop with refuse, 160 g; yields excluding refuse
+80167^raw chop with refuse, 85 g; yields excluding refuse
+80168^raw chop with refuse, 195 g; yields excluding refuse
+80169^raw streak with refuse, 385 g; yields excluding refuse
+80170^raw steak with refuse, 102 g; yields excluding refuse
+80171^piece (0.2 oz)
+80172^small patty (0.5 oz)
+80173^small patty (0.6 oz)
+80174^large patty (1.5 oz)
+80175^5 miniature cups
+80176^package (2.8 oz)
+80177^snack size bar (0.7 oz)
+80178^snack size bar (0.6 oz)
+80179^bar (1.7 oz)
+80180^bar (2.4 oz)
+80181^bar (2.6 oz)
+80183^22 pieces (4 oz bag)
+80184^50 pieces (1.4 oz)
+80185^package (1.6 oz)
+80186^3 pieces
+80187^bar (5 fl oz)
+80188^2 rolls
+80189^pouch
+80190^3/4 scoop
+80191^1/8 envelope
+80192^1/8 cap/tub
+80193^1/5 block
+80194^2-1/2 tablespoons
+80195^tablespoon, drained
+99068^2.5 oz

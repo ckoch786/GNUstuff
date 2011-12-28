@@ -1,0 +1,6 @@
+     ../src/hello.c \
+     ../gnulib/lib/error.c \
+     ../gnulib/lib/getopt.c \
+     ../gnulib/lib/closeout.c \
+     ../gnulib/lib/quotearg.c \
+     ../gnulib/lib/xalloc-die.c

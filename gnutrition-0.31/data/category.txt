@@ -1,0 +1,11 @@
+101^Breakfast
+102^Lunch
+103^Dinner
+104^Snack
+105^Dessert
+106^Appetizer
+107^Bread
+108^Salad
+108^Soup
+109^Drink
+110^Alcohol

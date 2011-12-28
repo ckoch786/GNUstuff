@@ -1,0 +1,31 @@
+
+GENERAL INFORMATION
+
+    This is version 0.31 of GNUTRITION, a recipe and food nutritional
+    analysis application for GNOME.
+
+    GNUtrition can be found on the main GNU FTP server:
+            http://ftp.gnu.org/gnu/gnutrition (via HTTP)
+            ftp://ftp.gnu.org/gnu/gnutrition (via FTP)
+    
+    It can also be found on the GNU mirrors; please use a mirror if possible.
+    The FTP mirror list is available at http://www.gnu.org/order/ftp.html.
+    http://ftpmirror.gnu.org/gnutrition/ will automatically redirect to a 
+    nearby mirror.
+
+    The official web site is:
+
+            http://www.gnu.org/software/gnutrition
+
+    This is alpha software, so don't expect everything to work correctly
+    or even at all.
+
+
+INSTALLATION
+
+     Read the INSTALL document.
+
+
+HOW TO REPORT BUGS & CONTACT THE MAINTAINER
+
+    Visit http://www.gnu.org/software/gnutrition/

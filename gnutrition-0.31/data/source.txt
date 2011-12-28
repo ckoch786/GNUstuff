@@ -1,0 +1,7 @@
+1:Analytical or derived from analytical
+12:Manufacturer's analytical; partial documentation
+4:Imputed
+5:Value manufacturer based label claim for added nutrients
+7:Assumed zero; not biologically present or insignificant amt.
+8:Calculated from nutrient label by NDL
+9:Calculated by manufacturer, not adjusted or rounded for NLEA

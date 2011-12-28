@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gnutrition
+Exec=gnutrition
+Terminal=0
+Icon=
+Comment=A nutritional analysis program
+Type=Application

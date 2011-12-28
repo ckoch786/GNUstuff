@@ -1,0 +1,81 @@
+203^g^PROCNT^Protein^228
+204^g^FAT^Total lipid (fat)^232
+205^g^CHOCDF^Carbohydrate, by difference^224
+207^g^ASH^Ash^236
+208^kcal^ENERC_KCAL^Energy^200
+221^g^ALC^Alcohol^990
+255^g^WATER^Water^220
+262^mg^CAFFN^Caffeine^788
+263^mg^THEBRN^Theobromine^848
+268^kj^ENERC_KJ^Energy^204
+269^g^SUGAR^Sugars, total^310
+291^g^FIBTG^Fiber, total dietary^262
+301^mg^CA^Calcium, Ca^580
+303^mg^FE^Iron, Fe^604
+304^mg^MG^Magnesium, Mg^608
+305^mg^P^Phosphorus, P^620
+306^mg^K^Potassium, K^624
+307^mg^NA^Sodium, Na^632
+309^mg^ZN^Zinc, Zn^636
+312^mg^CU^Copper, Cu^592
+315^mg^MN^Manganese, Mn^612
+317^mcg^SE^Selenium, Se^628
+318^IU^VITA_IU^Vitamin A, IU^674
+392^mcg_RE^VITA_RE^Vitamin A, RE^678
+394^mg_ATE^VITE^Vitamin E^730
+401^mg^VITC^Vitamin C, ascorbic acid^714
+404^mg^THIA^Thiamin^670
+405^mg^RIFB^Riboflavin^666
+406^mg^NIA^Niacin^658
+410^mg^PANTAC^Pantothenic acid^662
+415^mg^VITB6A^Vitamin B-6^710
+417^mcg^FOL^Folate^654
+418^mcg^VITB12^Vitamin B-12^706
+501^g^TRP_G^Tryptophan^400
+502^g^THR_G^Threonine^398
+503^g^ILE_G^Isoleucine^384
+504^g^LEU_G^Leucine^386
+505^g^LYS_G^Lysine^388
+506^g^MET_G^Methionine^390
+507^g^CYS_G^Cystine^376
+508^g^PHE_G^Phenylalanine^392
+509^g^TYR_G^Tyrosine^402
+510^g^VAL_G^Valine^404
+511^g^ARG_G^Arginine^372
+512^g^HIS_G^Histidine^382
+513^g^ALA_G^Alanine^370
+514^g^ASP_G^Aspartic acid^374
+515^g^GLU_G^Glutamic acid^378
+516^g^GLY_G^Glycine^380
+517^g^PRO_G^Proline^394
+518^g^SER_G^Serine^396
+601^mg^CHOLE^Cholesterol^334
+606^g^FASAT^Fatty acids, saturated^420
+607^g^F4D0^4:0^424
+608^g^F6D0^6:0^428
+609^g^F8D0^8:0^432
+610^g^F10D0^10:0^436
+611^g^F12D0^12:0^440
+612^g^F14D0^14:0^444
+613^g^F16D0^16:0^452
+614^g^F18D0^18:0^460
+615^g^F20D0^20:0^464
+617^g^F18D1^18:1^506
+618^g^F18D2^18:2^524
+619^g^F18D3^18:3^544
+620^g^F20D4^20:4^552
+621^g^F22D6^22:6^564
+624^g^F22D0^22:0^468
+625^g^F14D1^14:1^494
+626^g^F16D1^16:1^498
+627^g^F18D4^18:4^548
+628^g^F20D1^20:1^510
+629^g^F20D5^20:5^556
+630^g^F22D1^22:1^514
+631^g^F22D5^22:5^560
+636^mg^PHYSTR^Phytosterols^350
+645^g^FAMS^Fatty acids, monounsaturated^490
+646^g^FAPU^Fatty acids, polyunsaturated^520
+652^g^F15D0^15:0^448
+653^g^F17D0^17:0^456
+654^g^F24D0^24:0^472

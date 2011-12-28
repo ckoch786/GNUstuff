@@ -1,0 +1,15 @@
+# List of source files containing translatable strings.
+translatable/base_win.py
+translatable/edit_food_dlg.py
+translatable/edit_recipe_dlg.py
+translatable/food_win.c
+translatable/gnutr_druid.c
+translatable/nutr_comp_dlg_translatable.c
+translatable/nutr_goal_dlg_translatable.c
+translatable/plan_add_dlg.c
+translatable/plan_compute.c
+translatable/plan_win.c
+translatable/recipe_srch_dlg.c
+translatable/recipe_win.c
+translatable/search_dlg_translatable.c
+translatable/search_result_translatable.c

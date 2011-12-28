@@ -1,0 +1,10 @@
+	../translatable/progressbar_translatable.c \
+	../translatable/recipe_win_translatable.c \
+	../translatable/edit_food_dlg_translatable.c \
+	../translatable/messages_translatable.c \
+	../translatable/nutr_comp_dlg_translatable.c \
+	../translatable/nutr_goal_dlg_translatable.c \
+	../translatable/search_dlg_translatable.c \
+	../translatable/search_result_translatable.c \
+	../translatable/recipe_file_dlg_translatable.c \
+	../src/support.c
